@@ -1,0 +1,379 @@
+
+.hecolistbg{
+  background: #232641;
+}
+.hecoserInput{
+  background: rgba(46,50,84,1);
+}
+.hecoChain .fontcolor{
+  color: #30BE85;
+}
+.hecoChain .fontborder{
+  border: 1px solid #30BE85;
+  background: url(../assets/bxh/xiala1.png) no-repeat right;
+  background-position: right 5px top 8px;
+  padding-right: 20px;
+}
+.hecoChain .fontrmks{
+  background-image: linear-gradient(to right, #283948, #293948);
+}
+.hecoChain .fontkchis{
+  display: inline-block;
+  background: url(../assets/bxh/home_1.png) no-repeat 0 4px;
+  background-size: 10px 12px;
+  width: 10px;
+  height: 15px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.hecofontborder{
+  border: 1px solid #30BE85;
+  background: url(../assets/bxh/xiala1.png) no-repeat right;
+  background-position: right 5px top 8px;
+  padding-right: 20px !important;
+  color: #30BE85;
+  left: -100px !important;
+}
+.hecofontzyabg{
+  background: url(../assets/bxh/zyabg1.png) no-repeat;
+  background-size: 100% 100%;
+  padding-bottom: 10px;
+}
+.hecofontzhiyaobg{
+  background: url(../assets/bxh/homenewbg.png) no-repeat;
+}
+.hecoremenico{
+  background: url(../assets/bxh/hotdoorlogo.png) no-repeat;
+  background-size: 12px 12px;
+  width: 12px;
+  margin-top: 4px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+.hecofonthotbg{
+  background: #232641;
+}
+.hecofonthotbg .fontcolor{
+  color: #30BE85;
+}
+.hecofontremenbd{
+  background: #232641;
+  border: 1px solid #353864;
+}
+.hecofontremenbd span{
+  background: #2f273e;
+}
+.hecofontremenbd em{
+  color: #30BE85 !important;
+}
+.hecofonttab {
+  color: #30BE85;
+}
+.hecoTabConter .bxhTabOn{
+  color: #2EBC84;
+  opacity: 1 !important;
+  position: relative;
+  cursor: pointer;
+}
+.hecoTabConter .bxhTabOn em{
+  background: #2EBC84;
+  position: absolute;
+  width: 16px;
+  height: 3px;
+  bottom: -8px;
+  left: 50%;
+  margin-left: -10px;
+}
+.hecoTabConter .bxhTabOff{
+  color: #FFFFFF;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 15px;
+  opacity: 0.6;
+  cursor: pointer;
+}
+.hecoPCContentRightChain{
+  border: 1px solid #2EBC84 !important;
+  background: #2EBC84 !important;
+  color: #fff;
+}
+.hecoPCjiantou1{
+  background: url(../assets/bxh/jiantou1.png) no-repeat;
+  width: 12px;
+  height: 8px;
+  margin-left: 5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  transition: all .3s;
+  transform-origin: center center;
+}
+.hecoPCjiantou2{
+  background: url(../assets/bxh/jiantou1.png) no-repeat;
+  width: 12px;
+  height: 8px;
+  margin-left: 5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  transition: all .3s;
+  transform-origin: center center;
+  transform: translateY(-50%) rotate(-180deg);
+}
+.hecoPCheaderbg{
+  background: #20233C;
+}
+.hecoPCConter .PCConterbg{
+  background: #191B2E;
+}
+.hecoPCprrices{
+  background: #1f2139 !important;
+}
+.hecoPCdatas i{
+  color: #26A25C;
+}
+.hecoPCTitle span{
+  color: #2EBC84;
+}
+.hecoPCTitle em{
+  font-style: inherit;
+  color: #FDD436;
+}
+.hecoPCTitle i{
+  font-style: inherit;
+  color: #3E7EFF !important;
+}
+.hecoPCTitle dl{
+  display: inline-block;
+  margin: 0px;
+  color: #7E8CCB !important;
+}
+.hecoPCPriceContent{
+  border: 2px solid #2B2F50;
+  background-image: linear-gradient(to bottom, rgba(35, 38, 65, 0.16), rgba(35, 38, 65, 1));
+}
+.hecoPCPriceContent1{
+  border: 2px solid #2B2F50;
+  background-image: linear-gradient(to bottom, rgba(35, 38, 65, 0.16), rgba(35, 38, 65, 1));
+}
+.hecoPCcomton{
+  background: #20233C;
+}
+.hecoPCcomton div{
+  border-left: 1px solid #2B2F50;
+}
+.hecoPCbckbg{
+  color: #fff;
+}
+.hecoPCbckchi{
+  background: #20233C;
+}
+.hecoPCtableAPY{
+  color: #31BE86;
+}
+.hecoPC_new_btn1{
+  background-image: linear-gradient(to right, #2EBC84, #35C288) !important;
+  color: #fff;
+}
+.hecoPC_new_btn1:hover{
+  background-color: rgba(28, 163, 109, 1);
+  background-image: none;
+}
+.hecoPC_new_btn2{
+  color: #30BE85;
+  border: 1px solid #30BE85;
+}
+.hecoPC_new_btn2:hover{
+  background-color: rgba(28, 163, 109, 0.3);
+  background-image: none;
+}
+.hecoPC_footer span:hover{
+  color: #30BE85;
+}
+.hecoPCbroot{
+  background: #191B2E !important;
+}
+.hecoPCleftbg{
+  background: #1D1F36;
+}
+.hecoPCleftbg span:hover{
+  background: #2a2d42 !important;
+}
+.hecolisttitbg{
+  background: #232641;
+}
+.hecoPClisttitbg{
+  background: #232641;
+}
+.hecolistConter{
+  background: rgba(35,38,65,1);
+}
+.hecoPCnew_green span{
+  color: #31BE86;
+}
+.hecoPCaddress{
+  background: #4A4C5E;
+}
+.hecoPCaddress .roaddressparent{
+  color: #30BE85;
+  cursor: pointer;
+}
+.hecoselectFontcolor{
+  color: #30BE85;
+  font-style: normal;
+  position: relative;
+  bottom: 2px;
+}
+.heconoseFontcolor{
+  color: rgba(255, 255, 255, 0.8);
+  font-style: normal;
+  position: relative;
+  bottom: 2px;
+}
+.hecoshowLine{
+  width: 5px;
+  height: 15px;
+  border-radius: 10px;
+  background-image: linear-gradient(to bottom, #31BF86, #2FBD85);
+  position: absolute;
+  right: 20px;
+  bottom: 18px;
+}
+.hecohideLine{
+  display: none;
+}
+.hecoPCTDaoCard{
+  background: #20233C;
+}
+.hecoPCDialogbg{
+  background: #232640 !important;
+}
+.hecoPCDialogmax{
+  background: rgba(46, 188, 132, 0.1);
+  color: #2EBC84;
+}
+.hecosureDisable{
+  background: #4A4C5E;
+}
+.hecoPCTabOn{
+  color: #2EBC84;
+}
+.hecoPCTabOn em{
+  background: #2EBC84;
+}
+.hecoPCaddressbg{
+  background: #262946;
+}
+.hecoPCdiagleftbg{
+  background: #232640 !important;
+  box-shadow: 2px 2px 5px #232640;
+}
+.hecoPCContent div:hover{
+  /* background-color: rgba(48, 190, 133, 0.1); */
+}
+/* .hecoPCContent div:active{
+  background-color: rgba(48, 190, 133, 0.5);
+} */
+.hecofooter{
+  background: #20233C !important;
+}
+.hecofooter div{
+  width: 20%;
+}
+.hecoMConterbg{
+  background: #191B2E;
+}
+.hecobxhlistbg{
+  background: #232641;
+}
+.hecojmosl{
+  position: absolute;
+  right: -20px;
+  display: flex;
+}
+.hecopcjmosl{
+  position: relative;
+  width: 15% !important;
+  margin-left: 0px !important;
+  /* margin-left: -25px !important; */
+}
+
+.hecoLoancontbg{
+  position: relative;
+  background: url(../assets/bxh/mloan.png) no-repeat;
+  background-size: 100% 100%;
+  font-weight: 500;
+  padding: 10px 0;
+  text-align: center;
+}
+.hecoLoancontbg span{
+  display: block;
+  opacity: .7;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+.hecoLoancontbg em{
+  display: block;
+  font-style: inherit;
+  font-size: 16px;
+  font-weight: bold;
+}
+.hecoLoanLink{
+  position: absolute;
+  background: url(../assets/bxh/tloan.png) no-repeat;
+  width: 81px;
+  height: 27px;
+  line-height: 27px;
+  right: 10px;
+  color: #2EBC84;
+  top: 20px;
+  font-size: 14px;
+}
+.hecoLoanLink i{
+  display: block;
+  font-style: inherit;
+  text-align: right;
+  padding-right: 10px;
+}
+
+
+.hecobrilabel label{
+  display: block;
+  background: url(../assets/bxh/brquan_1.png) no-repeat;
+  width: 15px;
+  height: 15px;
+  cursor: pointer;
+  background-size: 100%;
+}
+.hecobrilabel input[type=radio] {
+  display: none;
+}
+.hecobrilabel input[type=radio]:checked + label{
+  background: url(../assets/bxh/brquan_on1.png) no-repeat;
+  background-size: 100%;
+}
+.hecobrijilu{
+  background: #2c3749;
+}
+.hecobrijilu span{
+  color: #2AA875;
+}
+.hecobriDialogbg{
+  background: #292d46 !important;
+  box-shadow: 2px 2px 5px #20233c;
+}
+.hecobriDialogtitbg{
+  background: #2c304b !important;
+}
+.hecobriDialogProbg{
+  background: #2c304b !important;
+  box-shadow: 2px 2px 5px #2c304b !important;
+}
+.hecombg{
+  background: #191B2E !important;
+}
+
+@media screen and (max-width: 700px) {
+  .hecoTabConter .bxhTabOff{
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+}

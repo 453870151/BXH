@@ -1,0 +1,566 @@
+
+.hecolistbg{
+  background: #232641;
+}
+.ethserInput{
+  background: #676D77;
+}
+.ethChain .fontcolor{
+  color: #7E8CCB;
+}
+.ethChain .fontborder{
+  border: 1px solid #7E8CCB;
+  background: url(../assets/bxh/xiala1.png) no-repeat right;
+  background-position: right 5px top 8px;
+  padding-right: 20px;
+}
+.ethChain .fontrmks{
+  background-image: linear-gradient(to right, #283948, #293948);
+}
+.ethChain .fontkchis{
+  display: inline-block;
+  background: url(../assets/bxh/home_1.png) no-repeat 0 4px;
+  background-size: 10px 12px;
+  width: 10px;
+  height: 15px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.ethfontborder{
+  border: 1px solid #7E8CCB;
+  background: url(../assets/bxh/xiala4.png) no-repeat right;
+  background-position: right 5px top 8px;
+  padding-right: 20px !important;
+  color: #7E8CCB;
+  left: -100px !important;
+}
+.hecofontzyabg{
+  background: url(../assets/bxh/zyabg1.png) no-repeat;
+  background-size: 100% 100%;
+  padding-bottom: 10px;
+}
+.hecofontzhiyaobg{
+  background: url(../assets/bxh/homenewbg.png) no-repeat;
+}
+.hecoremenico{
+  background: url(../assets/bxh/hotdoorlogo.png) no-repeat;
+  background-size: 12px 12px;
+  width: 12px;
+  margin-top: 4px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+.hecofonthotbg{
+  background: #232641;
+}
+.hecofonthotbg .fontcolor{
+  color: #30BE85;
+}
+.hecofontremenbd{
+  background: #232641;
+  border: 1px solid #353864;
+}
+.hecofontremenbd span{
+  background: #2f273e;
+}
+.hecofontremenbd em{
+  color: #30BE85 !important;
+}
+.ethfonttab {
+  color: #7E8CCB !important;
+}
+.ethTabConter .bxhTabOn{
+  color: #7E8CCB;
+  opacity: 1 !important;
+  position: relative;
+  cursor: pointer;
+}
+.ethTabConter .bxhTabOn em{
+  background: #7E8CCB;
+  position: absolute;
+  width: 16px;
+  height: 3px;
+  bottom: -8px;
+  left: 50%;
+  margin-left: -10px;
+}
+.ethTabConter .bxhTabOff{
+  color: #FFFFFF;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 15px;
+  opacity: 0.6;
+  cursor: pointer;
+}
+.ethPCContentRightChain{
+  border: 1px solid #7E8CCB !important;
+  background: #7E8CCB !important;
+  color: #fff;
+}
+.ethPCjiantou1{
+  background: url(../assets/bxh/jiantou1.png) no-repeat;
+  width: 12px;
+  height: 8px;
+  margin-left: 5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  transition: all .3s;
+  transform-origin: center center;
+}
+.ethPCjiantou2{
+  background: url(../assets/bxh/jiantou1.png) no-repeat;
+  width: 12px;
+  height: 8px;
+  margin-left: 5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  transition: all .3s;
+  transform-origin: center center;
+  transform: translateY(-50%) rotate(-180deg);
+}
+.ethPCheaderbg{
+  background: #323A4B !important;
+}
+.ethPCConter .PCConterbg{
+  background: #252c36 !important;
+  /* background: #191B2E !important; */
+}
+.ethPCprrices{
+  background: #2f3646 !important;
+}
+.ethPCdatas i{
+  color: #7E8CCB;
+}
+.ethPCTitle span{
+  color: #2EBC84;
+}
+.ethPCTitle em{
+  font-style: inherit;
+  color: #FDD436;
+}
+.ethPCTitle i{
+  font-style: inherit;
+  color: #3E7EFF !important;
+}
+.ethPCTitle dl{
+  display: inline-block;
+  margin: 0px;
+  color: #7E8CCB !important;
+}
+.ethPCPriceContent{
+  border: none !important;
+  background: url(../assets/bxh/pczya5.png) no-repeat !important;
+  background-size: 100% 100% !important;
+}
+.ethPCPriceContent:hover{
+  background: url(../assets/bxh/pczya5.png) no-repeat !important;
+  background-size: 100% 100% !important;
+  background-color: transparent !important;
+}
+.ethPCPriceContent1{
+  border: none !important;
+  background: url(../assets/bxh/pczya5.png) no-repeat !important;
+  background-size: 100% 100% !important;
+}
+.ethPCPriceContent1:hover{
+  background: url(../assets/bxh/pczya5.png) no-repeat !important;
+  background-size: 100% 100% !important;
+  background-color: transparent !important;
+}
+.hecoPCcomton{
+  background: #323b4c;
+}
+.hecoPCcomton div{
+  border-left: 1px solid #2B2F50;
+}
+.hecoPCbckbg{
+  color: #fff;
+}
+.ethPCbckchi{
+  background: #323b4c !important;
+}
+.ethPCtableAPY{
+  color: #7E8CCB !important;
+}
+.ethPC_new_btn1{
+  background: #7E8CCB !important;
+  color: #fff !important;
+}
+.ethPC_new_btn1:hover{
+  background-color: #535d80 !important;
+  background-image: none !important;
+}
+.ethPC_new_btn2{
+  color: #7E8CCB !important;
+  border: 1px solid #7E8CCB !important;
+}
+.ethPC_new_btn2:hover{
+  background-color: #535d80 !important;
+  background-image: none !important;
+}
+.ethPC_footer span:hover{
+  color: #7E8CCB !important;
+}
+.ethPCbroot{
+  background: #252c36 !important;
+  /* background: #191B2E !important; */
+}
+.ethPCleftbg{
+  background: #2d3542 !important;
+}
+.ethPCleftbg span:hover{
+  background: rgba(83, 93, 128, 0.3)!important;
+}
+.hecolisttitbg{
+  background: #232641;
+}
+.ethPClisttitbg{
+  background-image: linear-gradient(#303747, #373e50) !important;
+}
+.ethlistConter{
+  background: #323b4c !important;
+}
+.ethPCnew_green span{
+  color: #7E8CCB !important;
+}
+.ethPCaddress{
+  background: #4A4C5E;
+}
+.ethPCaddress .roaddressparent{
+  color: #7E8CCB;
+  cursor: pointer;
+}
+.ethselectFontcolor{
+  color: #7E8CCB;
+  font-style: normal;
+  position: relative;
+  bottom: 2px;
+}
+.ethnoseFontcolor{
+  color: rgba(255, 255, 255, 0.8);
+  font-style: normal;
+  position: relative;
+  bottom: 2px;
+}
+.ethshowLine{
+  width: 5px;
+  height: 15px;
+  border-radius: 10px;
+  background-image: linear-gradient(to bottom, #7E8CCB, #7E8CCB);
+  position: absolute;
+  right: 20px;
+  bottom: 18px;
+}
+.ethhideLine{
+  display: none;
+}
+.ethPCTDaoCard{
+  background: #323A4B !important;
+}
+.ethPCDialogbg{
+  background: #323A4B !important;
+}
+.ethPCtdDialogbg{
+  background: #2a303e !important;
+}
+.ethPCDialogmax{
+  background: #2d333f !important;
+  color: #7c83a0 !important;
+}
+.ethsureDisable{
+  background-color: #676D77 !important;
+  background-image: none !important;
+}
+.ethPCTabOn{
+  color: #7E8CCB !important;
+}
+.ethPCTabOn em{
+  background: #7E8CCB !important;
+}
+.ethPCaddressbg{
+  background: #323A4B !important;
+}
+.ethPCdiagleftbg{
+  background: #323A4B !important;
+  box-shadow: 2px 2px 5px #323A4B;
+}
+.ethPCContent div:hover{
+  background-color: #2f3744;
+}
+.ethPCContent div:active{
+  background-color: #535d80;
+}
+.hecofooter div{
+  width: 20%;
+}
+.ethMConterbg{
+  background: #262C35 !important;
+}
+.ethbxhlistbg{
+  background: #323A4B !important;
+}
+.hecojmosl{
+  position: absolute;
+  right: 0px;
+  display: flex;
+}
+.hecopcjmosl{
+  position: relative;
+  width: 15% !important;
+  margin-left: 0px !important;
+}
+.ethwebhezuo{
+  position: relative;
+  margin-top: 30px;
+  width: 830px;
+  height: 50px;
+}
+.ethwebhezuo span{
+  position: absolute;
+  display: inline-block;
+  border: 1px solid #535d80;
+  width: 150px;
+  height: 50px;
+  line-height: 50px;
+  border-radius: 10px;
+  text-align: center;
+}
+.bscwebheimg1{
+  left: 0px;
+}
+.bscwebheimg2{
+  left: 170px;
+}
+.bscwebheimg3{
+  left: 340px;
+}
+.bscwebheimg4{
+  left: 510px;
+}
+.ethfooter{
+  background: #323A4B !important;
+}
+.ethfooter div{
+  width: 20% !important;
+}
+
+
+.ethtotal{
+  background: url(http://mos-wallet-public.oss-cn-hangzhou.aliyuncs.com/mos/BXH/picture/ethtotalbg.png) no-repeat;
+  background-size: 100% 100%;
+  padding: 10px;
+  margin-top: 10px;
+}
+.ethtotal h1{
+  margin: 0px;
+  font-size: 16px;
+  color: #fff;
+}
+.ethtotal h2{
+  margin: 0px;
+  font-size: 16px;
+  color: #fff;
+}
+.bsctotqian{
+  margin-top: 10px;
+}
+.bsctotqian img{
+  vertical-align: middle;
+  margin-left: 10px;
+  width: 30px;
+}
+.bsctotqian span{
+  float: right;
+  font-size: 22px;
+  font-weight: bold;
+}
+.ethtvlbg{
+  background: #313541;
+  border-radius: 0 0 10px 10px;
+  padding-bottom: 10px;
+}
+.ethtvlback{
+  border: 1px solid #363e51;
+}
+.ethtvlback i{
+  display: inline-block;
+  padding-bottom: 10px;
+  color: #7E8CCB;
+  font-size: 13px;
+}
+.ethtvlback span{
+  font-weight: bold;
+}
+.ethtvlback:hover{
+  border: 1px solid #7E8CCB !important;
+}
+.ethjianchan{
+  position: relative;
+  display: flex;
+  background: url(../assets/bxh/jianchanbg2.png) no-repeat;
+  background-size: 100% 100%;
+  padding: 5px 15px;
+  margin: 10px 0;
+}
+.ethjiantit{
+  color: #fff;
+  font-weight: bold;
+}
+.ethjiantit span{
+  display: block;
+}
+.ethjianday{
+  position: absolute;
+  right: 5px;
+  margin: 7px 0 10px;
+}
+.ethjianday span{
+  background: #1a1a1a;
+  border-radius: 5px;
+  font-weight: bold;
+  width: 27px;
+  height: 30px;
+  line-height: 30px;
+  display: inline-block;
+  text-align: center;
+}
+.ethjianday i{
+  font-style: inherit;
+  padding: 0 5px;
+  vertical-align: sub;
+  font-size: 13px;
+  font-weight: 500;
+}
+.ethminbg{
+  background: #313541;
+  border-radius: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+.ethlists{
+  border: 1px solid #363e51;
+  padding: 10px 10px 0 !important;
+}
+.ethlists span{
+  display: block;
+  position: relative;
+}
+.ethlists img{
+  width: 25px;
+}
+.ethsymname{
+  position: absolute;
+  right: 0px;
+  top: 0px;
+}
+.ethsymfenbi{
+  display: inline-block !important;
+  color: #59ce8d;
+  font-weight: bold;
+  width: 70%;
+  overflow: hidden;
+}
+.ethsymAPY{
+  display: inline-block !important;
+  float: right;
+  color: #A0C0FF;
+}
+.ethhezuolists{
+  border: 1px solid #363e51;
+  padding: 10px !important;
+  height: 50px;
+  text-align: center;
+}
+.ethhezuolists img{
+  max-width: 70%;
+}
+.ethhezuolists:hover{
+  border: 1px solid #363e51 !important;
+}
+.ethshenhelists:hover{
+  border: none !important;
+}
+.ethshenhelists img{
+  width: 100%;
+}
+.ethminmores{
+  position: relative;
+  color: #A0C0FF !important;
+  font-weight: bold;
+}
+.ethminmores em{
+  position: absolute;
+  font-style: inherit;
+  right: 20px;
+  width: 50px;
+  text-align: right;
+}
+.ethminmores img{
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 10px;
+}
+.ethwebheimg1{
+  left: 0px;
+}
+.ethwebheimg2{
+  left: 170px;
+}
+.ethwebheimg3{
+  left: 340px;
+}
+.ethwebheimg4{
+  left: 510px;
+}
+.ethjmosl{
+  position: absolute;
+  right: 0px;
+  display: flex;
+}
+.ethpcjmosl{
+  position: relative;
+  width: 15% !important;
+  margin-left: 0px !important;
+}
+.ethhometit{
+  width: auto;
+  color: #7E8CCB;
+  font-weight: bold;
+}
+
+.ethbrilabel label{
+  display: block;
+  background: url(../assets/bxh/brquan_1.png) no-repeat;
+  width: 15px;
+  height: 15px;
+  cursor: pointer;
+  background-size: 100%;
+}
+.ethbrilabel input[type=radio] {
+  display: none;
+}
+.ethbrilabel input[type=radio]:checked + label{
+  background: url(../assets/bxh/brquan_on1.png) no-repeat;
+  background-size: 100%;
+}
+.ethbrijilu{
+  background: #323b4c;
+}
+.ethbrijilu span{
+  color: #7E8CCB;
+}
+.ethbriDialogbg{
+  background: #323A4B !important;
+  box-shadow: 2px 2px 5px #323A4B;
+}
+.ethbriDialogtitbg{
+  background: #242424 !important;
+}
+.ethbriDialogProbg{
+  background: #242424 !important;
+  box-shadow: 2px 2px 5px #242424 !important;
+}
+.ethmbg{
+  background: #262C35 !important;
+}

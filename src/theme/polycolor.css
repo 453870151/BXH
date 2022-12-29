@@ -1,0 +1,549 @@
+
+.polylistbg{
+  background: #232641;
+}
+.polyserInput{
+  background: #494256;
+}
+.polyChain .fontcolor{
+  color: #8841FF;
+}
+.polyChain .fontborder{
+  border: 1px solid #8841FF;
+  background: url(../assets/bxh/xiala1.png) no-repeat right;
+  background-position: right 5px top 8px;
+  padding-right: 20px;
+}
+.polyChain .fontrmks{
+  background-image: linear-gradient(to right, #283948, #293948);
+}
+.polyChain .fontkchis{
+  display: inline-block;
+  background: url(../assets/bxh/home_1.png) no-repeat 0 4px;
+  background-size: 10px 12px;
+  width: 10px;
+  height: 15px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.polyfontborder{
+  border: 1px solid #8841FF;
+  background: url(../assets/bxh/xiala5.png) no-repeat right;
+  background-position: right 5px top 8px;
+  padding-right: 20px !important;
+  color: #8841FF;
+  left: -120px !important;
+}
+.polyfontzyabg{
+  background: url(../assets/bxh/zyabg1.png) no-repeat;
+  background-size: 100% 100%;
+  padding-bottom: 10px;
+}
+.polyfontzhiyaobg{
+  background: url(../assets/bxh/homenewbg.png) no-repeat;
+}
+.polyremenico{
+  background: url(../assets/bxh/hotdoorlogo.png) no-repeat;
+  background-size: 12px 12px;
+  width: 12px;
+  margin-top: 4px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+.polyfonthotbg{
+  background: #232641;
+}
+.polyfonthotbg .fontcolor{
+  color: #30BE85;
+}
+.polyfontremenbd{
+  background: #232641;
+  border: 1px solid #353864;
+}
+.polyfontremenbd span{
+  background: #2f273e;
+}
+.polyfontremenbd em{
+  color: #30BE85 !important;
+}
+.polyfonttab {
+  color: #8841FF  !important;
+}
+.polyTabConter .bxhTabOn{
+  color: #8841FF;
+  opacity: 1 !important;
+  position: relative;
+  cursor: pointer;
+}
+.polyTabConter .bxhTabOn em{
+  background: #8841FF;
+  position: absolute;
+  width: 16px;
+  height: 3px;
+  bottom: -8px;
+  left: 50%;
+  margin-left: -10px;
+}
+.polyTabConter .bxhTabOff{
+  color: #FFFFFF;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 15px;
+  opacity: 0.6;
+  cursor: pointer;
+}
+.polyPCContentRightChain{
+  border: 1px solid #8841FF !important;
+  background: #8841FF !important;
+  color: #fff;
+}
+.polyPCjiantou1{
+  background: url(../assets/bxh/jiantou1.png) no-repeat;
+  width: 12px;
+  height: 8px;
+  margin-left: 5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  transition: all .3s;
+  transform-origin: center center;
+}
+.polyPCjiantou2{
+  background: url(../assets/bxh/jiantou1.png) no-repeat;
+  width: 12px;
+  height: 8px;
+  margin-left: 5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  transition: all .3s;
+  transform-origin: center center;
+  transform: translateY(-50%) rotate(-180deg);
+}
+.polyPCheaderbg{
+  background: #1A1621 !important;
+}
+.polyPCConter .PCConterbg{
+  background: #191B2E !important;
+}
+.polyPCprrices{
+  background: #242129 !important;
+}
+.polyPCdatas i{
+  color: #8841FF;
+}
+.polyPCTitle span{
+  color: #2EBC84;
+}
+.polyPCTitle em{
+  font-style: inherit;
+  color: #FDD436;
+}
+.polyPCTitle i{
+  font-style: inherit;
+  color: #3E7EFF !important;
+}
+.polyPCTitle dl{
+  display: inline-block;
+  margin: 0px;
+  color: #8841FF !important;
+}
+.polyPCPriceContent{
+  border: none !important;
+  background: url(../assets/bxh/pczya6.png) no-repeat !important;
+  background-size: 100% 100% !important;
+}
+.polyPCPriceContent:hover{
+  background: url(../assets/bxh/pczya6.png) no-repeat !important;
+  background-size: 100% 100% !important;
+  background-color: transparent !important;
+}
+.polyPCPriceContent1{
+  border: none  !important;
+  background: url(../assets/bxh/pczya7.png) no-repeat !important;
+  background-size: 100% 100% !important;
+}
+.polyPCPriceContent1:hover{
+  background: url(../assets/bxh/pczya7.png) no-repeat !important;
+  background-size: 100% 100% !important;
+  background-color: transparent !important;
+}
+.polyPCcomton{
+  background: #242129;
+}
+.polyPCcomton div{
+  border-left: 1px solid #2B2F50;
+}
+.polyPCbckbg{
+  color: #8841FF;
+}
+.polyPCbckchi{
+  background: #242129 !important;
+}
+.polyPCtableAPY{
+  color: #8841FF !important;
+}
+.polyPC_new_btn1{
+  background: #8841FF !important;
+  color: #fff !important;
+}
+.polyPC_new_btn1:hover{
+  background-color: rgba(136,65,255,.8) !important;
+  background-image: none !important;
+}
+.polyPC_new_btn2{
+  color: #8841FF !important;
+  border: 1px solid #8841FF !important;
+}
+.polyPC_new_btn2:hover{
+  background-color: rgba(136,65,255,.2) !important;
+  background-image: none !important;
+}
+.polyPC_footer span:hover{
+  color: #8841FF !important;
+}
+.polyPCbroot{
+  background: #191B2E !important;
+}
+.polyPCleftbg{
+  background: #2d3542 !important;
+}
+.polyPCleftbg span:hover{
+  background: rgba(83, 93, 128, 0.3)!important;
+}
+.polylisttitbg{
+  background: #232641;
+}
+.polyPClisttitbg{
+  background-image: linear-gradient(#261949, #433D7F) !important;
+}
+.polylistConter{
+  background: #242129 !important;
+}
+.polyPCnew_green span{
+  color: #8841FF !important;
+}
+.polyPCaddress{
+  background: #4A4C5E;
+}
+.polyPCaddress .roaddressparent{
+  color: #8841FF;
+  cursor: pointer;
+}
+.polyselectFontcolor{
+  color: #8841FF;
+  font-style: normal;
+  position: relative;
+  bottom: 2px;
+}
+.polynoseFontcolor{
+  color: rgba(255, 255, 255, 0.8);
+  font-style: normal;
+  position: relative;
+  bottom: 2px;
+}
+.polyshowLine{
+  width: 5px;
+  height: 15px;
+  border-radius: 10px;
+  background-image: linear-gradient(to bottom, #8841FF, #8841FF);
+  position: absolute;
+  right: 20px;
+  bottom: 18px;
+}
+.polyhideLine{
+  display: none;
+}
+.polyPCTDaoCard{
+  background: #242129 !important;
+}
+.polyPCDialogbg{
+  background: #242129 !important;
+}
+.polyPCtdDialogbg{
+  background: #2a303e !important;
+}
+.polyPCDialogmax{
+  background: rgba(136,65,255,.2) !important;
+  color: #8841FF !important;
+}
+.polysureDisable{
+  background-color: #676D77 !important;
+  background-image: none !important;
+}
+.polyPCTabOn{
+  color: #8841FF !important;
+}
+.polyPCTabOn em{
+  background: #8841FF !important;
+}
+.polyPCaddressbg{
+  background: #242129 !important;
+}
+.polyPCdiagleftbg{
+  background: #242129 !important;
+  box-shadow: 2px 2px 5px #242129;
+}
+.polyPCContent div:hover{
+  background-color: #2f3744;
+}
+.polyPCContent div:active{
+  background-color: #535d80;
+}
+.polyMConterbg{
+  background: #262C35 !important;
+}
+.polybxhlistbg{
+  background: #242129 !important;
+}
+.polyjmosl{
+  position: absolute;
+  right: 0px;
+  display: flex;
+}
+.polypcjmosl{
+  position: relative;
+  width: 15% !important;
+  margin-left: 0px !important;
+}
+.polywebhezuo{
+  position: relative;
+  margin-top: 30px;
+  width: 660px;
+  height: 50px;
+}
+.polywebhezuo span{
+  position: absolute;
+  display: inline-block;
+  border: 1px solid #604e32;
+  width: 150px;
+  height: 50px;
+  line-height: 50px;
+  border-radius: 10px;
+  text-align: center;
+}
+.polyfooter{
+  background: #191521 !important;
+}
+.polyfooter div{
+  width: 25% !important;
+}
+
+
+.polytotal{
+  background-image: linear-gradient(to right, #B862BD, #6C2273);
+  border-radius: 10px 10px 0 0;
+  padding: 10px;
+  margin-top: 10px;
+}
+.polytotal h1{
+  margin: 0px;
+  font-size: 16px;
+  color: #fff;
+}
+.polytotal h2{
+  margin: 0px;
+  font-size: 16px;
+  color: #fff;
+}
+.polytotqian{
+  margin-top: 10px;
+}
+.polytotqian img{
+  vertical-align: middle;
+  margin-left: 10px;
+  width: 30px;
+}
+.polytotqian span{
+  float: right;
+  font-size: 22px;
+  font-weight: bold;
+}
+.polytvlbg{
+  background: #313541;
+  border-radius: 0 0 10px 10px;
+  padding-bottom: 10px;
+}
+.polytvlback{
+  border: 1px solid #363e51;
+}
+.polytvlback i{
+  display: inline-block;
+  padding-bottom: 10px;
+  color: #8841FF;
+  font-size: 13px;
+}
+.polytvlback span{
+  font-weight: bold;
+}
+.polytvlback:hover{
+  border: 1px solid #8841FF !important;
+}
+.polyjianchan{
+  position: relative;
+  display: flex;
+  background-image: linear-gradient(to right, #B862BD, #6C2273);
+  border-radius: 50px;
+  padding: 5px 15px;
+  margin: 10px 0;
+}
+.polyjiantit{
+  color: #fff;
+  font-weight: bold;
+}
+.polyjiantit span{
+  display: block;
+}
+.polyjianday{
+  position: absolute;
+  right: 5px;
+  margin: 7px 0 10px;
+}
+.polyjianday span{
+  background: #1a1a1a;
+  border-radius: 5px;
+  font-weight: bold;
+  width: 27px;
+  height: 30px;
+  line-height: 30px;
+  display: inline-block;
+  text-align: center;
+}
+.polyjianday i{
+  font-style: inherit;
+  padding: 0 5px;
+  vertical-align: sub;
+  font-size: 13px;
+  font-weight: 500;
+}
+.polyminbg{
+  background: #242424;
+  border-radius: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+.polylists{
+  border: 1px solid #363e51;
+  padding: 10px 10px 0 !important;
+}
+.polylists span{
+  display: block;
+  position: relative;
+}
+.polylists img{
+  width: 25px;
+}
+.polysymname{
+  position: absolute;
+  right: 0px;
+  top: 0px;
+}
+.polysymfenbi{
+  display: inline-block !important;
+  color: #59ce8d;
+  font-weight: bold;
+  width: 70%;
+  overflow: hidden;
+}
+.polysymAPY{
+  display: inline-block !important;
+  float: right;
+  color: #A0C0FF;
+}
+.polyhezuolists{
+  border: 1px solid #363e51;
+  padding: 10px !important;
+  height: 50px;
+  text-align: center;
+}
+.polyhezuolists img{
+  max-width: 70%;
+}
+.polyhezuolists:hover{
+  border: 1px solid #363e51 !important;
+}
+.polyshenhelists:hover{
+  border: none !important;
+}
+.polyshenhelists img{
+  width: 100%;
+}
+.polyminmores{
+  position: relative;
+  color: #A0C0FF !important;
+  font-weight: bold;
+}
+.polyminmores em{
+  position: absolute;
+  font-style: inherit;
+  right: 20px;
+  width: 50px;
+  text-align: right;
+}
+.polyminmores img{
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 10px;
+}
+.polywebheimg1{
+  left: 0px;
+}
+.polywebheimg2{
+  left: 170px;
+}
+.polywebheimg3{
+  left: 340px;
+}
+.polywebheimg4{
+  left: 510px;
+}
+.polyjmosl{
+  position: absolute;
+  right: 0px;
+  display: flex;
+}
+.polypcjmosl{
+  position: relative;
+  width: 15% !important;
+  margin-left: 0px !important;
+}
+.polyhometit{
+  width: auto;
+  color: #8841FF;
+  font-weight: bold;
+}
+
+.polybrilabel label{
+  display: block;
+  background: url(../assets/bxh/brquan_1.png) no-repeat;
+  width: 15px;
+  height: 15px;
+  cursor: pointer;
+  background-size: 100%;
+}
+.polybrilabel input[type=radio] {
+  display: none;
+}
+.polybrilabel input[type=radio]:checked + label{
+  background: url(../assets/bxh/brquan_on1.png) no-repeat;
+  background-size: 100%;
+}
+.polybrijilu{
+  background: #242129;
+}
+.polybrijilu span{
+  color: #8841FF;
+}
+.polybriDialogbg{
+  background: #242129 !important;
+  box-shadow: 2px 2px 5px #242129;
+}
+.polybriDialogtitbg{
+  background: #242424 !important;
+}
+.polybriDialogProbg{
+  background: #242424 !important;
+  box-shadow: 2px 2px 5px #242424 !important;
+}
+.polymbg{
+  background: #191B2E !important;
+}

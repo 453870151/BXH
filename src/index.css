@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900');
+
+* {
+  outline: none !important;
+}
+
+body {
+  --blue: #007bff;
+  --indigo: #6610f2;
+  --purple: #6f42c1;
+  --pink: #e83e8c;
+  --red: #dc3545;
+  --orange: #fd7e14;
+  --yellow: #ffc107;
+  --green: #28a745;
+  --teal: #20c997;
+  --cyan: #17a2b8;
+  --white: #fff;
+  --gray: #6c757d;
+  --gray-dark: #343a40;
+  --primary: #007bff;
+  --secondary: #6c757d;
+  --success: #28a745;
+  --info: #17a2b8;
+  --warning: #ffc107;
+  --danger: #dc3545;
+  --light: #f8f9fa;
+  --dark: #343a40;
+  --breakpoint-xs: 0;
+  --breakpoint-sm: 576px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 992px;
+  --breakpoint-xl: 1200px;
+  --font-family-sans-serif: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  --font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+  margin: 0;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #fff;
+}
+
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -ms-overflow-style: scrollbar;
+  -webkit-tap-highlight-color: transparent;
+}
+
+  /* 定义滚动条样式 */
+  ::-webkit-scrollbar {
+  width: 0px;
+  height: 0px;
+  }
+  /*定义滚动条轨道 内阴影+圆角*/
+
+  .carousel .control-dots .dot{
+    border-radius: 0% !important;
+    width: 20px !important;
+    height: 2px !important;
+    margin: 0px !important;
+    border-radius: 50px !important;
+  }
+  .carousel .control-dots{
+    margin: 5px 0 !important;
+  }
+  .carousel .control-dots .dot.selected{
+    opacity: 0.8 !important;
+  }
+
+  @media screen and (max-width: 600px) { 
+    iframe#launcher {
+      bottom: 50px !important;
+      top: -99999px;
+    }
+  } 
+  
+
+@font-face{
+  font-family: "consola";
+  /* src: url("./font/consola.ttf"); */
+}
+
+.global_tooltip {
+  max-width: 300px !important;
+  white-space: break-spaces;
+}
+.global_tooltip .ant-tooltip-content {
+  margin-right: -5px;
+}
+.global_tooltip .ant-tooltip-inner {
+  border-radius: 4px;
+  font-size: 12px;
+  color: rgba(170, 172, 174, 1) !important;
+  background-color: #262946 !important;
+}
+.global_tooltip .ant-tooltip-arrow-content {
+  width: 8px;
+  height: 8px;
+  background-color: #262946 !important;
+}
+
+
+.mglobal_tooltip {
+  max-width: 300px !important;
+  white-space: nowrap;
+}
+.mglobal_tooltip .ant-tooltip-content {
+  margin-right: 10px;
+}
+.mglobal_tooltip .ant-tooltip-arrow{
+  left: 88% !important;
+}
+.mglobal_tooltip .ant-tooltip-inner {
+  border-radius: 4px;
+  font-size: 12px;
+  color: rgba(170, 172, 174, 1) !important;
+  background-color: #262946 !important;
+}
+.mglobal_tooltip .ant-tooltip-arrow-content {
+  width: 8px;
+  height: 8px;
+  background-color: #262946 !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+img { -webkit-touch-callout: none; }
+input[type='number'] {
+  -moz-appearance:textfield;
+}
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.wrapper-AtBcr{
+  position: absolute;
+  top:-9999px;
+}
+
+.homePCxinzeng div:last-child{
+  margin-right: 0px;
+}
+
+.homejiedai{
+  /* background: url(assets/bxh/homejiedai.png) no-repeat;
+  background-size: 100% 100%; */
+  /* width: 590px;
+  height: 325px; */
+}
+
+/* @keyframes process
+{
+    0%{
+        left:0;right:100%;
+    }
+    20%{
+        right:80%
+    }
+    40%{
+        right:60%;
+    }
+    60%{right:40%;}
+    80%{right:20%;}
+    100%{right:0;}
+} */

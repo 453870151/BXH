@@ -1,0 +1,39 @@
+.stateTransImage {
+    width: 15px;
+    height: 15px;
+    vertical-align:middle;
+    margin-left: 10px;
+}
+.pendingImage {
+    width: 13px;
+    height: 13px;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+.passBalanceRotateImage {
+    width: 15px;
+    height: 15px;
+}
+@media (prefers-reduced-motion: no-preference) {
+    .passBalanceRotateImage {
+        animation: State-Image-spin infinite 1s linear;
+    }
+}
+@media (prefers-reduced-motion: no-preference) {
+    .stateTransImage {
+        animation: State-Image-spin infinite 1s linear;
+    }
+}
+@media (prefers-reduced-motion: no-preference) {
+    .pendingImage {
+        animation: State-Image-spin infinite 1s linear;
+    }
+}
+@keyframes State-Image-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}

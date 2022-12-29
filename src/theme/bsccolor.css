@@ -1,0 +1,628 @@
+
+.bsclistbg{
+    background: #1d242c !important;
+}
+.bscserInput{
+    background: #363636 !important;
+}
+.bscChain .fontcolor{
+    color: #FDD436 !important;
+}
+.bscChain .fontborder{
+    border: 1px solid #FDD436 !important;
+    background: url(../assets/bxh/xiala2.png) no-repeat right;
+    background-position: right 5px top 8px;
+    padding-right: 20px;
+}
+.bscChain .fontrmks{
+    background-image: linear-gradient(to right, #342E1B, #342E1B);
+}
+.bscChain .fontkchis{
+    display: inline-block;
+    background: url(../assets/bxh/home_11.png) no-repeat 0 4px;
+    background-size: 10px 12px;
+    width: 10px;
+    height: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.bscfontborder{
+    border: 1px solid #FDD436 !important;
+    background: url(../assets/bxh/xiala2.png) no-repeat right;
+    background-position: right 5px top 8px;
+    padding-right: 20px !important;
+    color: #FDD436 !important;
+    left: -100px !important;
+}
+.bscfontzyabg{
+    background: url(../assets/bxh/zyabg2.png) no-repeat;
+    background-size: 100% 100%;
+    padding-bottom: 10px;
+}
+.bscfontzhiyaobg{
+    background: url(../assets/bxh/homenewbg1.png) no-repeat;
+    background-size: 15px 15px;
+    width: 15px;
+}
+.bscremenico{
+    background: url(../assets/bxh/hotdoorlogo1.png) no-repeat;
+    background-size: 12px 12px;
+    width: 12px;
+    margin-top: 4px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.bscfonthotbg{
+    background: #242424 !important;
+}
+.bscfonthotbg .fontcolor{
+    color: #FDD436 !important;
+}
+.bscfontremenbd{
+    background: #363636 !important;
+    border: 1px solid #363636 !important;
+}
+.bscfontremenbd span{
+    background: #363636;
+}
+.bscfontremenbd em{
+    color: #FDD436 !important;
+}
+.bscfonttab {
+    color: #FDD436 !important;
+}
+.bscTabConter .bxhTabOn{
+    color: #ffcf4c !important;
+    opacity: 1 !important;
+    position: relative;
+    cursor: pointer;
+}
+.bscTabConter .bxhTabOn em{
+    background: #ffcf4c !important;
+    position: absolute;
+    width: 16px;
+    height: 3px;
+    bottom: -8px;
+    left: 50%;
+    margin-left: -10px;
+}
+.bscTabConter .bxhTabOff{
+    color: #FFFFFF !important;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 15px;
+    opacity: 0.6;
+    cursor: pointer;
+}
+.bscPCContentRightChain{
+    border: 1px solid #FDD436 !important;
+    background: #FDD436 !important;
+    color: #2e2e2e;
+}
+.bscPCjiantou1{
+    background: url(../assets/bxh/jiantou2.png) no-repeat !important;
+    width: 12px;
+    height: 8px;
+    margin-left: 5px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    transition: all .3s;
+    transform-origin: center center;
+}
+.bscPCjiantou2{
+    background: url(../assets/bxh/jiantou2.png) no-repeat !important;
+    width: 12px;
+    height: 8px;
+    margin-left: 5px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    transition: all .3s;
+    transform-origin: center center;
+    transform: translateY(-50%) rotate(-180deg);
+}
+.bscPCheaderbg{
+    background: #1A1A1A !important;
+}
+.bscPCConter .PCConterbg{
+    background: #0A0E12 !important;
+    /* background: #191B2E !important; */
+}
+.bscPCprrices{
+    background: #1A1A1A !important;
+}
+.bscPCdatas i{
+    color: #FDD436 !important;
+}
+.bscPCTitle span{
+    color: #2EBC84 !important;
+}
+.bscPCTitle em{
+    font-style: inherit;
+    color: #FDD436 !important;
+}
+.bscPCTitle i{
+    font-style: inherit;
+    color: #3E7EFF !important;
+}
+.bscPCTitle dl{
+    display: inline-block;
+    margin: 0px;
+    color: #7E8CCB !important;
+  }
+.bscPCPriceContent{
+    border: none !important;
+    background: url(../assets/bxh/pczya1.png) no-repeat !important;
+    background-size: 100% 100% !important;
+}
+.bscPCPriceContent:hover{
+    background: url(../assets/bxh/pczya1.png) no-repeat !important;
+    background-size: 100% 100% !important;
+    background-color: transparent !important;
+}
+.bscPCPriceContent1{
+    border: none  !important;
+    background: url(../assets/bxh/pczya2.png) no-repeat !important;
+    background-size: 100% 100% !important;
+}
+.bscPCPriceContent1:hover{
+    background: url(../assets/bxh/pczya2.png) no-repeat !important;
+    background-size: 100% 100% !important;
+    background-color: transparent !important;
+}
+.bscPCcomton{
+    background: #242424 !important;
+}
+.bscPCcomton div{
+    border-left: 1px solid #38373c !important;
+}
+.bscPCbckbg{
+    color: #FDD436;
+}
+.bscPCbckchi{
+    background: #242424 !important;
+}
+.bscPCtableAPY{
+    color: #FDD436 !important;
+}
+.bscPC_new_btn1{
+    background: #FDD436 !important;
+    color: #212833 !important;
+}
+.bscPC_new_btn1:hover{
+    background-color: rgba(255, 206, 78, 0.8) !important;
+}
+.bscPC_new_btn2{
+    color: #FDD436 !important;
+    border: 1px solid #FDD436 !important;
+}
+.bscPC_new_btn2:hover{
+    background-color: rgba(255, 206, 78, 0.1) !important;
+}
+.bscPC_new_btn3{
+    color: #fff !important;
+    border: 1px solid #AC6E56 !important;
+    background: #AC6E56 !important;
+}
+.bscPC_footer span:hover{
+    color: #FDD436 !important;
+}
+.bscPCbroot{
+    background: #0A0E12 !important;
+    /* background: #191B2E !important; */
+}
+.bscPCleftbg{
+    background: #141517 !important;
+}
+.bscPCleftbg span:hover{
+    background: #1f1f21 !important;
+}
+.bsclisttitbg{
+    background: #1d242c !important;
+}
+.bscPClisttitbg{
+    background-image: linear-gradient(#233328, #363320) !important;
+}
+.bsclistConter{
+    background: #1f1f21 !important;
+}
+.bscPCnew_green span{
+    color: #FDD436 !important;
+}
+.bscmaxbg{
+    background: transparent !important;
+}
+.bscPCaddress{
+    background: #3A3A3A !important;
+}
+.bscPCaddress .roaddressparent{
+    color: #FDD436 !important;
+    cursor: pointer !important;
+}
+.bscselectFontcolor{
+    color: #FDD436 !important;
+    font-style: normal !important;
+    position: relative !important;
+    bottom: 2px !important;
+}
+.bscnoseFontcolor{
+    color: rgba(255, 255, 255, 0.8) !important;
+    font-style: normal !important;
+    position: relative !important;
+    bottom: 2px !important;
+}
+.bscshowLine{
+    width: 5px;
+    height: 15px;
+    border-radius: 10px;
+    background: #FDD436 !important;
+    position: absolute !important;
+    right: 20px;
+    bottom: 18px;
+}
+.bschideLine{
+    display: none;
+}
+.bscPCTDaoCard{
+    background: #242424 !important;
+}
+.bscPCDialogbg{
+    background: #1A1A1A !important;
+}
+.bscPCDialogmax{
+    background: #303028 !important;
+    color: #FDD436 !important;
+}
+.bscsureDisable{
+    background: #363636 !important;
+}
+.bscPCTabOn{
+    color: #FDD436 !important;
+}
+.bscPCTabOn em{
+    background: #FDD436 !important;
+}
+.bscPCaddressbg{
+    background: #1f1f21 !important;
+}
+.bscPCdiagleftbg{
+    background: #141517 !important;
+    box-shadow: 2px 2px 5px #141517;
+}
+.bscPCContent div:hover{
+    background-color: #222216 !important;
+}
+/* .bscPCContent div:active{
+    background-color: #83702b !important;
+} */
+.bscfooter{
+    background: #1A1A1A !important;
+}
+.bscfooter div{
+    width: 20% !important;
+}
+.bscMConterbg{
+    background: #0A0E12;
+}
+.bscdaojishcont{
+    position: relative;
+  }
+.bscdaojishch{
+    position: absolute;
+    right: 0px;
+}
+.bscbxhlistbg{
+    background: #243428 !important;
+}
+
+.bsctotal{
+    background: url(../assets/bxh/bsctotalbg.png) no-repeat;
+    background-size: 100% 100%;
+    padding: 10px;
+    margin-top: 10px;
+}
+.bsctotal h1{
+    margin: 0px;
+    font-size: 16px;
+    color: #FDD436;
+}
+.bsctotal h2{
+    margin: 0px;
+    font-size: 16px;
+    color: #FDD436;
+}
+.bsctotqian{
+    margin-top: 10px;
+}
+.bsctotqian img{
+    vertical-align: middle;
+    margin-left: 10px;
+    width: 30px;
+}
+.bsctotqian span{
+    float: right;
+    font-size: 22px;
+    font-weight: bold;
+}
+.bsctvlbg{
+    background: #242424;
+    border-radius: 0 0 10px 10px;
+    padding-bottom: 10px;
+}
+.bsctvlback{
+    border: 1px solid #604e32;
+}
+.bsctvlback i{
+    display: inline-block;
+    padding-bottom: 10px;
+    color: #FDD436;
+    font-size: 13px;
+}
+.bsctvlback span{
+    font-weight: bold;
+}
+.bsctvlback:hover{
+    border: 1px solid #FDD436 !important;
+}
+.bscjianchan{
+    position: relative;
+    display: flex;
+    background: url(../assets/bxh/jianchanbg.png) no-repeat;
+    background-size: 100% 100%;
+    padding: 5px 15px;
+    margin: 10px 0;
+}
+.bscjiantit{
+    color: #FDD436;
+    font-weight: bold;
+}
+.bscjiantit span{
+    display: block;
+}
+.bscjianday{
+    position: absolute;
+    right: 5px;
+    margin: 7px 0 10px;
+}
+.bscjianday span{
+    background: #1a1a1a;
+    border-radius: 5px;
+    font-weight: bold;
+    width: 27px;
+    height: 30px;
+    line-height: 30px;
+    display: inline-block;
+    text-align: center;
+}
+.bscjianday i{
+    font-style: inherit;
+    padding: 0 5px;
+    vertical-align: sub;
+    font-size: 13px;
+    font-weight: 500;
+}
+.bscminbg{
+    background: #242424;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.bsclists{
+    border: 1px solid #604e32;
+    padding: 10px 10px 0 !important;
+}
+.bsclists span{
+    display: block;
+    position: relative;
+}
+.bsclists img{
+    width: 25px;
+}
+.bscsymname{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+.bscsymfenbi{
+    display: inline-block !important;
+    color: #59ce8d;
+    font-weight: bold;
+    width: 70%;
+    overflow: hidden;
+}
+.bscsymAPY{
+    display: inline-block !important;
+    float: right;
+    color: #9993d2;
+}
+.bschezuolists{
+    border: 1px solid #604e32;
+    padding: 10px !important;
+    height: 50px;
+    text-align: center;
+}
+.bschezuolists img{
+    max-width: 70%;
+}
+.bschezuolists:hover{
+    border: 1px solid #604e32 !important;
+}
+.bscshenhelists:hover{
+    border: none !important;
+}
+.bscshenhelists img{
+    width: 100%;
+}
+.bscminmores{
+    position: relative;
+    color: #9993d2 !important;
+    font-weight: bold;
+}
+.bscminmores em{
+    position: absolute;
+    font-style: inherit;
+    right: 20px;
+    width: 50px;
+    text-align: right;
+}
+.bscminmores img{
+    position: absolute;
+    right: 0px;
+    top: 2px;
+    width: 10px;
+}
+.bscwebhezuo{
+    position: relative;
+    margin-top: 30px;
+    width: 660px;
+    height: 50px;
+}
+.bscwebhezuo span{
+    position: absolute;
+    display: inline-block;
+    border: 1px solid #604e32;
+    width: 150px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 10px;
+    text-align: center;
+}
+.bscwebheimg1{
+    left: 0px;
+}
+.bscwebheimg2{
+    left: 170px;
+}
+.bscwebheimg3{
+    left: 340px;
+}
+.bscwebheimg4{
+    left: 510px;
+}
+.bscwebheimg5{
+    left: 680px;
+}
+.bscwebheimg6{
+    left: 850px;
+}
+.bscjmosl{
+    position: absolute;
+    right: 0px;
+    display: flex;
+}
+.bscpcjmosl{
+    position: relative;
+    width: 15% !important;
+    margin-left: 0px !important;
+}
+.bschometit{
+    width: auto;
+    color: #FDD436;
+    font-weight: bold;
+}
+
+.bscLoancontbg{
+  position: relative;
+  background: url("https://mos-wallet-public.oss-cn-hangzhou.aliyuncs.com/mos/BXH/picture/mloan2.png") no-repeat;
+  background-size: 100% 100%;
+  font-weight: 500;
+  padding: 10px 0;
+  margin-top: 10px;
+  padding-left: 20px;
+}
+.bscLoancontbg span{
+  display: block;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+.bscLoancontbg em{
+  display: block;
+  font-style: inherit;
+  font-size: 14px;
+  opacity: .7;
+}
+.bscLoanLink{
+  position: absolute;
+  background: url(../assets/bxh/tloan.png) no-repeat;
+  width: 81px;
+  height: 27px;
+  line-height: 27px;
+  right: 10px;
+  color: #FDD436;
+  top: 20px;
+  font-size: 14px;
+}
+.bscLoanLink i{
+  display: block;
+  font-style: inherit;
+  text-align: right;
+  padding-right: 10px;
+}
+
+.deplistConter:nth-child(odd){
+  margin-right: 1.5%;
+}
+.deplistConter:nth-child(even){
+  margin-left: 1.5%;
+}
+
+.bscbrilabel label{
+    display: block;
+    background: url(../assets/bxh/brquan_1.png) no-repeat;
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+    background-size: 100%;
+}
+.bscbrilabel input[type=radio] {
+    display: none;
+}
+.bscbrilabel input[type=radio]:checked + label{
+    background: url(../assets/bxh/brquan_on1.png) no-repeat;
+    background-size: 100%;
+}
+
+.bscxdtbrilabel label{
+    display: block;
+    background: url(../assets/bxh/brquan_1.png) no-repeat;
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+    background-size: 100%;
+}
+.bscxdtbrilabel input[type=radio] {
+    display: none;
+}
+.bscxdtbrilabel input[type=radio]:checked + label{
+    background: url(../assets/bxh/brquan_on2.png) no-repeat;
+    background-size: 100%;
+}
+.bscbrijilu{
+    background: #3c3944;
+}
+.bscbrijilu span{
+    color: #F4B739;
+}
+.bscbriDialogbg{
+    background: #0A0E12 !important;
+    box-shadow: 2px 2px 5px #0A0E12;
+}
+.bscbriDialogtitbg{
+    background: #242424 !important;
+}
+.bscbriDialogProbg{
+    background: #242424 !important;
+    box-shadow: 2px 2px 5px #242424 !important;
+}
+.bscmbg{
+    background: #0A0E12 !important;
+}
+
+
+@media screen and (max-width: 700px) {
+    .deplistConter:nth-child(odd){
+        margin-right: 0%;
+    }    
+    .deplistConter:nth-child(even){
+        margin-left: 0%;
+    }   
+}

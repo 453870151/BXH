@@ -1,0 +1,552 @@
+
+  .hecolistbg{
+    background: #232641;
+  }
+  .okexserInput{
+    background: #4B515C;
+  }
+  .okexChain .fontcolor{
+    color: #3E7EFF;
+  }
+  .okexChain .fontborder{
+    border: 1px solid #30BE85;
+    background: url(../assets/bxh/xiala1.png) no-repeat right;
+    background-position: right 5px top 8px;
+    padding-right: 20px;
+  }
+  .okexChain .fontrmks{
+    background-image: linear-gradient(to right, #283948, #293948);
+  }
+  .okexChain .fontkchis{
+    display: inline-block;
+    background: url(../assets/bxh/home_1.png) no-repeat 0 4px;
+    background-size: 10px 12px;
+    width: 10px;
+    height: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .okexfontborder{
+    border: 1px solid #3E7EFF;
+    background: url(../assets/bxh/xiala3.png) no-repeat right;
+    background-position: right 5px top 8px;
+    padding-right: 20px !important;
+    color: #3E7EFF;
+    left: -100px !important;
+  }
+  .hecofontzyabg{
+    background: url(../assets/bxh/zyabg1.png) no-repeat;
+    background-size: 100% 100%;
+    padding-bottom: 10px;
+  }
+  .hecofontzhiyaobg{
+    background: url(../assets/bxh/homenewbg.png) no-repeat;
+  }
+  .hecoremenico{
+    background: url(../assets/bxh/hotdoorlogo.png) no-repeat;
+    background-size: 12px 12px;
+    width: 12px;
+    margin-top: 4px;
+    margin-right: 5px;
+    margin-left: 5px;
+  }
+  .hecofonthotbg{
+    background: #232641;
+  }
+  .hecofonthotbg .fontcolor{
+    color: #30BE85;
+  }
+  .hecofontremenbd{
+    background: #232641;
+    border: 1px solid #353864;
+  }
+  .hecofontremenbd span{
+    background: #2f273e;
+  }
+  .hecofontremenbd em{
+    color: #30BE85 !important;
+  }
+  .okexfonttab {
+    color: #3E7EFF !important;
+  }
+  .okexTabConter .bxhTabOn{
+    color: #3E7EFF !important;
+    opacity: 1 !important;
+    position: relative;
+    cursor: pointer;
+  }
+  .okexTabConter .bxhTabOn em{
+    background: #3E7EFF !important;
+    position: absolute;
+    width: 16px;
+    height: 3px;
+    bottom: -8px;
+    left: 50%;
+    margin-left: -10px;
+  }
+  .okexTabConter .bxhTabOff{
+    color: #FFFFFF;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 15px;
+    opacity: 0.6;
+    cursor: pointer;
+  }
+  .okexPCContentRightChain{
+    border: 1px solid #3E7EFF !important;
+    background: #3E7EFF !important;
+    color: #fff;
+  }
+  .okexPCjiantou1{
+    background: url(../assets/bxh/jiantou1.png) no-repeat;
+    width: 12px;
+    height: 8px;
+    margin-left: 5px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    transition: all .3s;
+    transform-origin: center center;
+  }
+  .okexPCjiantou2{
+    background: url(../assets/bxh/jiantou1.png) no-repeat;
+    width: 12px;
+    height: 8px;
+    margin-left: 5px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    transition: all .3s;
+    transform-origin: center center;
+    transform: translateY(-50%) rotate(-180deg);
+  }
+  .okexPCheaderbg{
+    background: #272C35 !important;
+  }
+  .okexPCConter .PCConterbg{
+    background: #131317 !important;
+    /* background: #191B2E !important; */
+  }
+  .okexPCprrices{
+    background: #282c35 !important;
+  }
+  .okexPCdatas i{
+    color: #3E7EFF;
+  }
+  .okexPCTitle span{
+    color: #2EBC84 !important;
+  }
+  .okexPCTitle em{
+    font-style: inherit;
+    color: #FDD436 !important;
+  }
+  .okexPCTitle i{
+    font-style: inherit;
+    color: #3E7EFF !important;
+  }
+  .okexPCTitle dl{
+    display: inline-block;
+    margin: 0px;
+    color: #7E8CCB !important;
+  }
+  .okexPCPriceContent{
+    border: none !important;
+    background: url(../assets/bxh/pczya4.png) no-repeat !important;
+    background-size: 100% 100% !important;
+  }
+  .okexPCPriceContent:hover{
+    background: url(../assets/bxh/pczya4.png) no-repeat !important;
+    background-size: 100% 100% !important;
+    background-color: transparent !important;
+  }
+  .okexPCPriceContent1{
+    border: none  !important;
+    background: url(../assets/bxh/pczya4.png) no-repeat !important;
+    background-size: 100% 100% !important;
+  }
+  .okexPCPriceContent1:hover{
+    background: url(../assets/bxh/pczya4.png) no-repeat !important;
+    background-size: 100% 100% !important;
+    background-color: transparent !important;
+  }
+  .hecoPCcomton{
+    background: #20233C;
+  }
+  .hecoPCcomton div{
+    border-left: 1px solid #2B2F50;
+  }
+  .okexPCbckbg{
+    color: #3E7EFF !important;
+  }
+  .okexPCbckchi{
+    background: #282c35 !important;
+  }
+  .okexPCtableAPY{
+    color: #3E7EFF !important;
+  }
+  .okexPC_new_btn1{
+    background-image: linear-gradient(to right, #3E7EFF, #3E7EFF) !important;
+    color: #fff !important;
+  }
+  .okexPC_new_btn1:hover{
+    background-color: #2056c0 !important;
+    background-image: none !important;
+  }
+  .okexPC_new_btn2{
+    color: #3E7EFF !important;
+    border: 1px solid #3E7EFF !important;
+  }
+  .okexPC_new_btn2:hover{
+    background-color: rgba(62, 126, 255, 0.3) !important;
+    background-image: none !important;
+  }
+  .okexPC_footer span:hover{
+    color: #3E7EFF !important;
+  }
+  .okexPCbroot{
+    background: #131317 !important;
+    /* background: #191B2E !important; */
+  }
+  .okexPCleftbg{
+    background: #1e212a !important;
+  }
+  .okexPCleftbg span:hover{
+    background: #272C35 !important;
+  }
+  .hecolisttitbg{
+    background: #232641;
+  }
+  .okexPClisttitbg{
+    background-image: linear-gradient(#272C35, #293449) !important;
+  }
+  .okexlistConter{
+    background: #282c35 !important;
+  }
+  .okexPCnew_green span{
+    color: #3E7EFF !important;;
+  }
+  .okexPCaddress{
+    background: #4A4C5E !important;;
+  }
+  .okexPCaddress .roaddressparent{
+    color: #30BE85;
+    cursor: pointer;
+  }
+  .okexselectFontcolor{
+    color: #3E7EFF;
+    font-style: normal;
+    position: relative;
+    bottom: 2px;
+  }
+  .okexnoseFontcolor{
+    color: rgba(255, 255, 255, 0.8);
+    font-style: normal;
+    position: relative;
+    bottom: 2px;
+  }
+  .okexshowLine{
+    width: 5px;
+    height: 15px;
+    border-radius: 10px;
+    background: #3E7EFF !important;
+    position: absolute !important;
+    right: 20px;
+    bottom: 18px;
+  }
+  .okexhideLine{
+    display: none;
+  }
+  .okexPCTDaoCard{
+    background: #282c35 !important;
+  }
+  .okexPCDialogbg{
+    background: #272C35 !important;
+  }
+  .okexPCDialogbg1{
+    background: #3b424c !important;
+  }
+  .okexPCDialogmax{
+    background: #202739 !important;
+    color: #3E7EFF !important;
+  }
+  .okexsureDisable{
+    background: #4B515C !important;
+  }
+  .okexPCTabOn{
+    color: #3E7EFF !important;
+  }
+  .okexPCTabOn em{
+    background: #3E7EFF !important;
+  }
+  .okexPCaddressbg{
+    background: #272C35 !important;
+  }
+  .okexPCdiagleftbg{
+    background: #272C35 !important;
+    box-shadow: 2px 2px 5px #272C35;
+  }
+  .okexPCContent div:hover{
+    background-color: #181e2e;
+  }
+  /* .okexPCContent div:active{
+    background-color: #2c4c89;
+  } */
+  .okexfooter{
+    background: #272C35 !important;
+  }
+  .okexfooter div{
+    width: 20% !important;
+  }
+  .okexMConterbg{
+    background: #131317;
+  }
+  .okexbxhlistbg{
+    background: #282c35 !important;
+  }
+  .hecojmosl{
+    position: absolute;
+    right: 0px;
+    display: flex;
+  }
+  .hecopcjmosl{
+    position: relative;
+    width: 15% !important;
+    margin-left: 0px !important;
+  }
+  .okexwebhezuo{
+    position: relative;
+    margin-top: 30px;
+    width: 830px;
+    height: 50px;
+  }
+  .okexwebhezuo span{
+    position: absolute;
+    display: inline-block;
+    border: 1px solid #303f5e;
+    width: 150px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  .okexmaxbg{
+    background: transparent !important;
+  }
+
+.okextotal{
+    background: url(../assets/bxh/okextotalbg.png) no-repeat;
+    background-size: 100% 100%;
+    padding: 10px;
+    margin-top: 10px;
+}
+.okextotal h1{
+    margin: 0px;
+    font-size: 16px;
+    color: #fff;
+}
+.okextotal h2{
+    margin: 0px;
+    font-size: 16px;
+    color: #fff;
+}
+.okextotqian{
+    margin-top: 10px;
+}
+.okextotqian img{
+    vertical-align: middle;
+    margin-left: 10px;
+    width: 30px;
+}
+.okextotqian span{
+    float: right;
+    font-size: 22px;
+    font-weight: bold;
+}
+.okextvlbg{
+    background: #242424;
+    border-radius: 0 0 10px 10px;
+    padding-bottom: 10px;
+}
+.okextvlback{
+    border: 1px solid #31384a;
+}
+.okextvlback i{
+    display: inline-block;
+    padding-bottom: 10px;
+    color: #3E7EFF;
+    font-size: 13px;
+}
+.okextvlback span{
+    font-weight: bold;
+}
+.okextvlback:hover{
+    border: 1px solid #3E7EFF !important;
+}
+.okexjianchan{
+    position: relative;
+    display: flex;
+    background: url(../assets/bxh/jianchanbg1.png) no-repeat;
+    background-size: 100% 100%;
+    padding: 5px 15px;
+    margin: 10px 0;
+}
+.okexjiantit{
+    color: #fff;
+    font-weight: bold;
+}
+.okexjiantit span{
+    display: block;
+}
+.okexjianday{
+    position: absolute;
+    right: 5px;
+    margin: 7px 0 10px;
+}
+.okexjianday span{
+    background: #1a1a1a;
+    border-radius: 5px;
+    font-weight: bold;
+    width: 27px;
+    height: 30px;
+    line-height: 30px;
+    display: inline-block;
+    text-align: center;
+}
+.okexjianday i{
+    font-style: inherit;
+    padding: 0 5px;
+    vertical-align: sub;
+    font-size: 13px;
+    font-weight: 500;
+}
+.okexminbg{
+    background: #242424;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.okexlists{
+    border: 1px solid #31384a;
+    padding: 10px 10px 0 !important;
+}
+.okexlists span{
+    display: block;
+    position: relative;
+}
+.okexlists img{
+    width: 25px;
+}
+.okexsymname{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+.okexsymfenbi{
+    display: inline-block !important;
+    color: #59ce8d;
+    font-weight: bold;
+    width: 70%;
+    overflow: hidden;
+}
+.okexsymAPY{
+    display: inline-block !important;
+    float: right;
+    color: #A0C0FF;
+}
+.okexhezuolists{
+    border: 1px solid #31384a;
+    padding: 10px !important;
+    height: 50px;
+    text-align: center;
+}
+.okexhezuolists img{
+    max-width: 70%;
+}
+.okexhezuolists:hover{
+    border: 1px solid #31384a !important;
+}
+.okexshenhelists:hover{
+    border: none !important;
+}
+.okexshenhelists img{
+    width: 100%;
+}
+.okexminmores{
+    position: relative;
+    color: #A0C0FF !important;
+    font-weight: bold;
+}
+.okexminmores em{
+    position: absolute;
+    font-style: inherit;
+    right: 20px;
+    width: 50px;
+    text-align: right;
+}
+.okexminmores img{
+    position: absolute;
+    right: 0px;
+    top: 2px;
+    width: 10px;
+}
+.okexwebheimg1{
+    left: 0px;
+}
+.okexwebheimg2{
+    left: 170px;
+}
+.okexwebheimg3{
+    left: 340px;
+}
+.okexwebheimg4{
+    left: 510px;
+}
+.okexjmosl{
+    position: absolute;
+    right: 0px;
+    display: flex;
+}
+.okexpcjmosl{
+    position: relative;
+    width: 15% !important;
+    margin-left: 0px !important;
+}
+.okexhometit{
+    width: auto;
+    color: #3E7EFF;
+    font-weight: bold;
+}
+
+.okexbrilabel label{
+  display: block;
+  background: url(../assets/bxh/brquan_1.png) no-repeat;
+  width: 15px;
+  height: 15px;
+  cursor: pointer;
+  background-size: 100%;
+}
+.okexbrilabel input[type=radio] {
+  display: none;
+}
+.okexbrilabel input[type=radio]:checked + label{
+  background: url(../assets/bxh/brquan_on1.png) no-repeat;
+  background-size: 100%;
+}
+.okexbrijilu{
+  background: #282c35;
+}
+.okexbrijilu span{
+  color: #3E7EFF;
+}
+.okexbriDialogbg{
+  background: #282c35 !important;
+  box-shadow: 2px 2px 5px #282c35;
+}
+.okexbriDialogtitbg{
+  background: #31384a !important;
+}
+.okexbriDialogProbg{
+  background: #31384a !important;
+  box-shadow: 2px 2px 5px #31384a !important;
+}
+.okexmbg{
+  background: #131317 !important;
+}

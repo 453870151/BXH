@@ -1,0 +1,19 @@
+.stateIcoImage {
+    width: 20px;
+    height: 20px;
+    margin-top: 12px;
+}
+@media (prefers-reduced-motion: no-preference) {
+    .stateIcoImage {
+        animation: State-Image-spin infinite 1s linear;
+    }
+}
+
+@keyframes State-Image-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
