@@ -1,7 +1,0 @@
-.header {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    overflow: hidden;
-    background-image: url('../../assets/bxh/Bitmap.png');
-}
